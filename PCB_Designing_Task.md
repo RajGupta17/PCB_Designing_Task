@@ -23,7 +23,7 @@ In this task, you have to design a PCB for Automatic Headlights which means that
 	- Schematic Diagram
 	- PCB Layout (Both front layer and back layer)
 2. Along with the PDF, submit a zip folder that contains all the KiCAD files and rename it as your team name and task number. Eg. "Task_4_TEAM_ABCD"
-3. You need to import the symbols and footprints of all the components like LM358 and LDR, so you can download it from the EDA Tools websites provided in Resources Section.
+3. You have to import the component symbols and footprints from EDA Websites given below. For now, we have provided you the the folder which includes all the required symbols and footprints of the components. (Refer Playlist for tutorial)
 ```
 
 
@@ -38,6 +38,9 @@ In this task, you have to design a PCB for Automatic Headlights which means that
 2. **KiCAD Playlist:** 
 	[Click here](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB)
 
-3. EDA Tools for importing components:
+3. **Download the library from here (For Symbols and Footprints):**
+	[Click here](https://drive.google.com/drive/folders/1WAuIDvje05pGdIHXOORPXT2VOyxn8W1j)
+ 
+4. **EDA Tools for importing components: (Not Required for this task)**
 	- [SnapEDA](https://www.snapeda.com/)
 	- [Component Search Engine](https://componentsearchengine.com/)
