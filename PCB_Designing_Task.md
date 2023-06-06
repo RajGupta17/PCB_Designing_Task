@@ -18,25 +18,26 @@ In this task, you have to design a PCB for Automatic Headlights which means that
 
 ## Submission Instructions: (KiCAD software is recommended)
 
+```
 1. Submit a PDF that includes the snapshots of the following things:
-	1. Schematic Diagram
-	2. PCB Layout (Both front layer and back layer)
+	- Schematic Diagram
+	- PCB Layout (Both front layer and back layer)
 2. Along with the PDF, submit a zip folder that contains all the KiCAD files and rename it as your team name and task number. Eg. "Task_4_TEAM_ABCD"
-3. You need to import the symbols and footprints of all the components like LM358 and LDR, so you can download it from the websites like:
-	1. [SnapEDA](https://www.snapeda.com/)
-	2. [Component Search Engine](https://componentsearchengine.com/)
+3. You need to import the symbols and footprints of all the components like LM358 and LDR, so you can download it from the EDA Tools websites provided in Resources Section.
+```
+
 
 
 ## Resources:
 
 1. KiCAD Installations: (Follow all the steps carefully)
-	1. [Linux](https://www.kicad.org/download/linux/)
-	2. [Windows](https://www.kicad.org/download/windows/)
-	3. [MacOS](https://www.kicad.org/download/macos/)
+	- [Linux](https://www.kicad.org/download/linux/)
+	- [Windows](https://www.kicad.org/download/windows/)
+	- [MacOS](https://www.kicad.org/download/macos/)
 
 2. **KiCAD Playlist:** 
 	[Click here](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUhUXUt51W6nKvxx2ORvUQB)
 
 3. EDA Tools for importing components:
-	1. [SnapEDA](https://www.snapeda.com/)
-	2. [Component Search Engine](https://componentsearchengine.com/)
+	- [SnapEDA](https://www.snapeda.com/)
+	- [Component Search Engine](https://componentsearchengine.com/)
